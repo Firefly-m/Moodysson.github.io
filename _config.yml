@@ -21,7 +21,7 @@ repository               : "Firefly-m/Moodysson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "moodysson.png"
+  avatar           : "profile.png"
   name             : "Disen Mo"
   pronouns         : # example: "she/her"  
   bio              : "Failures stop us only if we let them."
