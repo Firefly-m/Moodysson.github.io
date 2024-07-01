@@ -12,7 +12,7 @@ title                    : "Disen Mo's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Disen Mo"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Moodysson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Firefly-m/Moodysson.github.io"
 
