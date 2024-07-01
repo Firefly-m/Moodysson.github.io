@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Disen Mo / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   name             : "Disen Mo"
   pronouns         : # example: "she/her"  
   bio              : "Failures stop us only if we let them."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Chengdu, Sichuan"
+  employer         : "Northeast Petroleum University"
   uri              : https://Moodysson.github.io# URL
   email            : "none@example.org" 
 
