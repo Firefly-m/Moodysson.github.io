@@ -5,7 +5,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the Camouflaged objects detection (COD).'
 date: 2023-06-07
 venue: 'Multimedia Tools and Applications'
-slidesurl: ''
 paperurl: 'https://link.springer.com/article/10.1007/s11042-023-15304-1'
 citation: 'Bi H, Tong J, Zhang C, <b>Mo D</b>, et al. Camouflaged objects detection network via contradiction detection and feature aggregation[J]. <i>Multimedia Tools and Applications</i>, 2024, 83(3): 9161-9179.'
 ---
