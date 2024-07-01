@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the Collaborative Camouflaged Object Detection (CoCOD) task.'
 date: 2024-04-03
 venue: 'Engineering Applications of Artificial Intelligence'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: ''
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S095219762400486X'
 citation: 'Zhang C, Bi H, <b>Mo D</b>, et al. CCNet: Collaborative Camouflaged Object Detection via decoder-induced information interaction and supervision refinement network[J]. <i>Engineering Applications of Artificial Intelligence</i>, 2024, 133: 108328.'
 ---
