@@ -36,11 +36,11 @@ Projects
 
 Skills
 ======
-* Skill Python
-* Skill C语言
-* Skill 数据库
-  * Sub-skill Neo4j
-  * Sub-skill MySQL
+* Python
+* C语言
+* 数据库
+  * Neo4j
+  * MySQL
 
 Publications
 ======
