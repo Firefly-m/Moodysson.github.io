@@ -27,7 +27,7 @@ author:
   bio              : "Failures stop us only if we let them."
   location         : "Chengdu, Sichuan"
   employer         : "Northeast Petroleum University"
-  uri              : "https://Moodysson.github.io"
+  uri              : #"https://Moodysson.github.io"
   email            : "modisen2022@163.com" 
 
   # Academic websites
