@@ -20,6 +20,22 @@ Work experience
   * China Life Reinsurance Company Limited (Beijing)
   * Duties included: Insurance technology innovation; Relational database, graph database development
   
+Achievements
+======
+* “华为杯”第二十届中国研究生数学建模竞赛 二等奖（2023.11）	作品：《出血性脑卒中临床智能诊疗建模》
+* 第十一届中国大学生服务外包创新创业大赛 A类三等奖（2020.07）	作品：《安全帽佩戴检测系统》
+* 第四届京南地区人工智能与机器人创新创业大赛 二等奖（2022.12）	作品：《基于YOLOv7的火灾检测装置》
+* 第五届京南地区人工智能与机器人创新创业大赛 二等奖（2023.12）	作品：《玻璃面板智能检测装置》
+* 四川省机器人大赛志愿者证书
+* 优秀团员
+* 优秀硕士研究生
+* 优秀研究生干部
+
+Projects
+======
+* 病虫害识别及推荐系统（Python+YoLov7+知识图谱+Qt+Jetson Xavier NX）
+* 新型塔架式抽油机电参数字化及工况诊断技术研究（Matlab+Python+随机森林）
+
 Skills
 ======
 * Skill Python
