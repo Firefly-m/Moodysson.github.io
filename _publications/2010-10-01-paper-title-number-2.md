@@ -2,7 +2,7 @@
 title: "Camouflaged objects detection network via contradiction detection and feature aggregation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the Camouflaged objects detection (COD).'
 date: 2023-06-07
 venue: 'Multimedia Tools and Applications'
 slidesurl: ''
