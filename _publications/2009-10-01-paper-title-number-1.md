@@ -2,7 +2,7 @@
 title: "CCNet: Collaborative Camouflaged Object Detection via decoder-induced infor-mation interaction and supervision refinement network"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the Collaborative Camouflaged Object Detection (CoCOD) task. In this paper, we proposed edge augmentation module (EAM) and group decoder module (GDM).'
 date: 2024-04-03
 venue: 'Engineering Applications of Artificial Intelligence'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
