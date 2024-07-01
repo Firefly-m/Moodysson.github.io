@@ -12,7 +12,7 @@ title                    : "Disen Mo's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Disen Mo"
 description              : &description "personal description"
-url                      : https://Firefly-m/Moodysson.github.io
+url                      : https://Firefly-m.github.io/Moodysson.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Firefly-m/Moodysson.github.io"
 
