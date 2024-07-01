@@ -6,6 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm a graduate student level 2022 from [electrical information engineering college](https://dqxxgcxy.nepu.edu.cn/), [northeast petroleum university](https://www.nepu.edu.cn/index.htm). My research interests include computer vision, computer graphics, machine learning, and knowledge graphs.
+
+It is my great honor to join the Intelligent Visual Perception and Information Processing Laboratory of [School of Electrical and Information Engineering](https://dqxxgcxy.nepu.edu.cn/) of Northeast Petroleum University to study. I was advised by [Prof. Hongbo Bi](https://dqxxgcxy.nepu.edu.cn/info/1065/1380.htm) from [School of Electrical Information Engineering](https://dqxxgcxy.nepu.edu.cn/), Northeast Petroleum University.
+
+
+You can find my CV here: [Disen Mo's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](modisen2022@163.com) / [Github](https://github.com/Firefly-m) / [Wechat](../images/wechat.jpg) / [bilibili](https://space.bilibili.com/4463163)
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
