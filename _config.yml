@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Disen Mo"
 description              : &description "personal description"
 url                      : https://Firefly-m.github.io/Moodysson.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "Moodysson.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Firefly-m/Moodysson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
