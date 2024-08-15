@@ -37,7 +37,8 @@ Projects
 Skills
 ======
 * Python
-* C语言
+* C语言/ C++
+* Java
 * 数据库
   * Neo4j
   * MySQL
