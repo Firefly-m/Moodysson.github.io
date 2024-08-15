@@ -33,6 +33,7 @@ Projects
 ======
 * 病虫害识别及推荐系统（Python+YoLov7+知识图谱+Qt+Jetson Xavier NX）
 * 新型塔架式抽油机电参数字化及工况诊断技术研究（Matlab+Python+随机森林）
+* 高速车流量计数器（Python+YoLov5+DeepSORT）
 
 Skills
 ======
