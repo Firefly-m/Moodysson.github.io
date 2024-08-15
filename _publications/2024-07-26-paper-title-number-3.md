@@ -4,8 +4,5 @@ collection: publications
 permalink: /publication/2024-07-26-paper-title-number-3
 excerpt: 'Invention patent'
 date: 2024-07-26
-venue: ''
-paperurl: ''
-citation: ''
 ---
 
