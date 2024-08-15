@@ -18,7 +18,11 @@ Work experience
 ======
 * Summer 2022: Business development department
   * China Life Reinsurance Company Limited (Beijing)
-  * Duties included: Insurance technology innovation; Relational database, graph database development
+  * Duties included: Insurance technology innovation, Relational database, graph database development
+ 
+* Summer 2024: Information technology department
+  * Bank of China Sichuan branch (Chengdu)
+  * Duties included: Data processing, model testing
   
 Achievements
 ======
