@@ -14,7 +14,7 @@ Education
 * M.S. in Information and Communication Engineering, Northeast Petroleum University, 2022-2025
 * B.S. in Electronic Information Engineering, Southwest Petroleum University, 2017-2021
 
-Work experience
+Internship experience
 ======
 * Summer 2022: Business development department
   * China Life Reinsurance Company Limited (Beijing)
@@ -26,12 +26,14 @@ Work experience
   
 Achievements
 ======
-* “华为杯”第二十届中国研究生数学建模竞赛 二等奖（2023.11）	作品：《出血性脑卒中临床智能诊疗建模》
-* 第十一届中国大学生服务外包创新创业大赛 A类三等奖（2020.07）	作品：《安全帽佩戴检测系统》
-* 第四届京南地区人工智能与机器人创新创业大赛 二等奖（2022.12）	作品：《基于YOLOv7的火灾检测装置》
-* 第五届京南地区人工智能与机器人创新创业大赛 二等奖（2023.12）	作品：《玻璃面板智能检测装置》
-* 四川省机器人大赛志愿者
-* 优秀硕士研究生、优秀研究生干部
+* 国家级：第十二届中国TRIZ杯大学生创新方法大赛二等奖（2024.08） 作品：《基于TRIZ理论的协同金属表面缺陷检测装置》
+* 国家级：“华为杯”第二十届中国研究生数学建模竞赛二等奖（2023.11）	作品：《出血性脑卒中临床智能诊疗建模》
+* 省区级：第十一届中国大学生服务外包创新创业大赛 A类三等奖（2020.07）	作品：《安全帽佩戴检测系统》
+* 省区级：第四届京南地区人工智能与机器人创新创业大赛 二等奖（2022.12）	作品：《基于YOLOv7的火灾检测装置》
+* 省区级：第五届京南地区人工智能与机器人创新创业大赛 二等奖（2023.12）	作品：《玻璃面板智能检测装置》
+* 省区级：四川省机器人大赛志愿者（2017、2018）
+* 校级：优秀硕士研究生、优秀研究生干部（2023、2024）
+* 奖学金：两次一等学业奖学金（2023、2024）、优秀学生一等奖学金（2020）
 
 Projects
 ======
@@ -42,7 +44,7 @@ Projects
 Skills
 ======
 * Python
-* C语言/ C++
+* C语言
 * Java
 * 数据库
   * Neo4j
