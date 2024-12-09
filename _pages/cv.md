@@ -37,10 +37,10 @@ Achievements
 
 Projects
 ======
-* 数字人民币抽奖系统（Java+ MySQL+ SpingBoot+ Vue）
-* 病虫害识别及推荐系统（Python+ YoLov7+ 知识图谱+ Qt+ Jetson Xavier NX）
+* [数字人民币抽奖系统](https://blog.csdn.net/qq_41972616/article/details/141557844?fromshare=blogdetail&sharetype=blogdetail&sharerId=141557844&sharerefer=PC&sharesource=qq_41972616&sharefrom=from_link)（Java+ MySQL+ SpingBoot+ Vue）
+* [基于知识图谱的病虫害识别及推荐系统](https://blog.csdn.net/qq_41972616/article/details/141221785?fromshare=blogdetail&sharetype=blogdetail&sharerId=141221785&sharerefer=PC&sharesource=qq_41972616&sharefrom=from_link)（Python+ YoLov7+ 知识图谱+ Qt+ Jetson Xavier NX）
 * 新型塔架式抽油机电参数字化及工况诊断技术研究（Matlab+ Python+ 随机森林）
-* 高速车流量计数器（Python+ YoLov5+ DeepSORT）
+* [高速车流量计数器](https://blog.csdn.net/qq_41972616/article/details/141216555?fromshare=blogdetail&sharetype=blogdetail&sharerId=141216555&sharerefer=PC&sharesource=qq_41972616&sharefrom=from_link)（Python+ YoLov5+ DeepSORT）
 * 基于科大讯飞机器伴侣（C语言+ Linux+ API+ 多线程）
 
 Skills
