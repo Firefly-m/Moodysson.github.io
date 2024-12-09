@@ -33,13 +33,15 @@ Achievements
 * 省区级：第五届京南地区人工智能与机器人创新创业大赛 二等奖（2023.12）	作品：《玻璃面板智能检测装置》
 * 省区级：四川省机器人大赛志愿者（2017、2018）
 * 校级：优秀硕士研究生、优秀研究生干部（2023、2024）
-* 奖学金：两次一等学业奖学金（2023、2024）、优秀学生一等奖学金（2020）
+* 奖学金：一等学业奖学金（2023、2024）、优秀学生一等奖学金（2020）
 
 Projects
 ======
-* 病虫害识别及推荐系统（Python+YoLov7+知识图谱+Qt+Jetson Xavier NX）
-* 新型塔架式抽油机电参数字化及工况诊断技术研究（Matlab+Python+随机森林）
-* 高速车流量计数器（Python+YoLov5+DeepSORT）
+* 数字人民币抽奖系统（Java+ MySQL+ SpingBoot+ Vue）
+* 病虫害识别及推荐系统（Python+ YoLov7+ 知识图谱+ Qt+ Jetson Xavier NX）
+* 新型塔架式抽油机电参数字化及工况诊断技术研究（Matlab+ Python+ 随机森林）
+* 高速车流量计数器（Python+ YoLov5+ DeepSORT）
+* 基于科大讯飞机器伴侣（C语言+ Linux+ API+ 多线程）
 
 Skills
 ======
