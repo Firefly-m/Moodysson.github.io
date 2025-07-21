@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>给好朋友的道歉</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: #000;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: white;
+            cursor: pointer;
+        }
+        
+        #container {
+            position: relative;
+            text-align: center;
+            z-index: 10;
+        }
+        
+        h1 {
+            font-size: 3em;
+            text-shadow: 0 0 10px #00a8ff, 0 0 20px #00a8ff;
+            margin-bottom: 20px;
+            animation: glow 2s infinite alternate;
+        }
+        
+        p {
+            font-size: 1.5em;
+            margin-bottom: 30px;
+            text-shadow: 0 0 5px #00ffaa;
+        }
+        
+        #emoji {
+            font-size: 5em;
+            display: inline-block;
+            margin: 20px;
+            animation: bounce 1s infinite alternate;
+        }
+        
+        button {
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid white;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s;
+            backdrop-filter: blur(5px);
+            margin: 10px;
+        }
+        
+        button:hover {
+            background: rgba(255, 255, 255, 0.4);
+            transform: scale(1.1);
+        }
+        
+        canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+        
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 10px #00a8ff, 0 0 20px #00a8ff;
+            }
+            to {
+                text-shadow: 0 0 20px #00a8ff, 0 0 30px #00a8ff, 0 0 40px #00ffaa;
+            }
+        }
+        
+        @keyframes bounce {
+            to {
+                transform: translateY(-20px);
+            }
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        #message {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 20px;
+            backdrop-filter: blur(5px);
+        }
+        
+        #music-controls {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 100;
+        }
+        
+        #music-btn {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.2);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="fireworks"></canvas>
+    
+    <div id="container">
+        <div id="message">
+            <h1>嘿嘿嘿</h1>
+            <div id="emoji">🐱</div>
+            <p>点击屏幕任何地方放烟花解压</p>
+            <button id="surpriseBtn">看看我的诚意</button>
+        </div>
+        
+        <div id="surpriseMessage" class="hidden">
+            <p>欠君一番真诚意</p>
+            <p>自悔言行欠思量</p>
+            <p>愿为松竹常青友</p>
+            <p>莫作昙花一现缘</p>
+            <div id="emoji">✌️</div>
+            <button id="backBtn">返回</button>
+        </div>
+    </div>
+
+    <!-- 音乐控制区域 -->
+    <div id="music-controls">
+        <button id="music-btn">🎵</button>
+        <audio id="bg-music" loop>
+            <!-- 使用轻松的背景音乐 -->
+            <source src="c:\files\code\HTML\xiulianaiqing_Moodysson.MP3" type="audio/mpeg">
+            您的浏览器不支持音频元素
+        </audio>
+    </div>
+
+    <script>
+        // 烟花效果
+        const canvas = document.getElementById('fireworks');
+        const ctx = canvas.getContext('2d');
+        
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        });
+        
+        class Particle {
+            constructor(x, y, color) {
+                this.x = x;
+                this.y = y;
+                this.color = color;
+                this.velocity = {
+                    x: (Math.random() - 0.5) * 8,
+                    y: (Math.random() - 0.5) * 8
+                };
+                this.alpha = 1;
+                this.decay = Math.random() * 0.015 + 0.01;
+                this.size = Math.random() * 3 + 1;
+            }
+            
+            draw() {
+                ctx.save();
+                ctx.globalAlpha = this.alpha;
+                ctx.fillStyle = this.color;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.closePath();
+                ctx.fill();
+                ctx.restore();
+            }
+            
+            update() {
+                this.velocity.y += 0.05;
+                this.x += this.velocity.x;
+                this.y += this.velocity.y;
+                this.alpha -= this.decay;
+                this.draw();
+                return this.alpha > 0;
+            }
+        }
+        
+        let particles = [];
+        
+        function createFirework(x, y) {
+            const colors = ['#00a8ff', '#00ffaa', '#fbc531', '#e84118', '#9c88ff'];
+            const particleCount = 150;
+            
+            for (let i = 0; i < particleCount; i++) {
+                const color = colors[Math.floor(Math.random() * colors.length)];
+                particles.push(new Particle(x, y, color));
+            }
+            
+            // emoji跳动效果
+            document.getElementById('emoji').style.transform = 'translateY(-30px)';
+            setTimeout(() => {
+                document.getElementById('emoji').style.transform = 'translateY(0)';
+            }, 200);
+        }
+        
+        function animate() {
+            requestAnimationFrame(animate);
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.1)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            particles = particles.filter(particle => particle.update());
+        }
+        
+        animate();
+        
+        // 点击屏幕放烟花
+        window.addEventListener('click', (e) => {
+            createFirework(e.clientX, e.clientY);
+            tryPlayMusic();
+        });
+        
+        // 自动放烟花
+        setInterval(() => {
+            const x = Math.random() * canvas.width;
+            const y = Math.random() * canvas.height / 2;
+            createFirework(x, y);
+        }, 1500);
+        
+        // 按钮交互
+        document.getElementById('surpriseBtn').addEventListener('click', () => {
+            document.getElementById('message').classList.add('hidden');
+            document.getElementById('surpriseMessage').classList.remove('hidden');
+            
+            // 放大量烟花
+            for (let i = 0; i < 5; i++) {
+                setTimeout(() => {
+                    const x = Math.random() * canvas.width;
+                    const y = Math.random() * canvas.height / 2;
+                    createFirework(x, y);
+                }, i * 200);
+            }
+        });
+        
+        document.getElementById('backBtn').addEventListener('click', () => {
+            document.getElementById('message').classList.remove('hidden');
+            document.getElementById('surpriseMessage').classList.add('hidden');
+        });
+        
+        // 音乐控制功能
+        const bgMusic = document.getElementById('bg-music');
+        const musicBtn = document.getElementById('music-btn');
+        let musicPlaying = false;
+        
+        function tryPlayMusic() {
+            if (!musicPlaying) {
+                bgMusic.volume = 0.3;
+                const playPromise = bgMusic.play();
+                
+                if (playPromise !== undefined) {
+                    playPromise.then(_ => {
+                        musicPlaying = true;
+                        musicBtn.textContent = '🔊';
+                    })
+                    .catch(error => {
+                        musicBtn.textContent = '🔇';
+                    });
+                }
+            }
+        }
+        
+        musicBtn.addEventListener('click', () => {
+            if (musicPlaying) {
+                bgMusic.pause();
+                musicBtn.textContent = '🔇';
+            } else {
+                bgMusic.play();
+                musicBtn.textContent = '🔊';
+            }
+            musicPlaying = !musicPlaying;
+        });
+        
+        // 打字机效果
+        const textElements = document.querySelectorAll('p');
+        textElements.forEach(el => {
+            const originalText = el.textContent;
+            el.textContent = '';
+            
+            let i = 0;
+            const typing = setInterval(() => {
+                if (i < originalText.length) {
+                    el.textContent += originalText.charAt(i);
+                    i++;
+                } else {
+                    clearInterval(typing);
+                }
+            }, 50);
+        });
+    </script>
+</body>
+</html>
