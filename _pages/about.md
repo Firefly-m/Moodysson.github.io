@@ -16,6 +16,6 @@ As the team leader, I have won many national, provincial and university-level aw
 
 Welcome to cooperate and communicate with me.
 
-[Email](mailto:modisen2022@163.com) / [Github](https://github.com/Firefly-m) / [Wechat](../images/wechat.png) / [Douyin](https://v.douyin.com/AVniTwzSNik/ 3@7.com :7pm) / [CSDN](https://blog.csdn.net/qq_41972616)
+[Email](mailto:modisen2022@163.com) / [Github](https://github.com/Firefly-m) / [Wechat](../images/wechat.png) / [Douyin](https://v.douyin.com/WPQfXveN3V8/) / [CSDN](https://blog.csdn.net/qq_41972616)
 
 
