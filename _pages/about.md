@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Personal Profile
-
 I am currently working at the **Chongqing Branch of Industrial and Commercial Bank of China (ICBC)**. I am a motivated and accomplished professional with a strong background in electronic information engineering and a passion for applying advanced technologies in the financial industry.
 
 ## 🎓 Education
@@ -31,16 +29,10 @@ I am currently working at the **Chongqing Branch of Industrial and Commercial Ba
 
 ## 💼 Experience
 
-**Industrial and Commercial Bank of China (ICBC), Chongqing Branch** | Current Role
-- 
+- **Industrial and Commercial Bank of China (ICBC), Chongqing Branch** | Current Role
+- **Bank of China, Sichuan Branch** | Intern, Information Technology Department
+- **China Life Reinsurance Co., Ltd.** | Intern, Business Development Department
 
-**Bank of China, Sichuan Branch** | Intern, Information Technology Department
-- 
-
-**China Life Reinsurance Co., Ltd.** | Intern, Business Development Department
-- 
-
----
 **Welcome to connect and collaborate with me!**
 
 [Email](mailto:modisen2022@163.com) / [Github](https://github.com/Firefly-m) / [Wechat](../images/wechat.png) / [Douyin](https://v.douyin.com/WPQfXveN3V8/) / [CSDN](https://blog.csdn.net/qq_41972616)
