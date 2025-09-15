@@ -16,7 +16,7 @@ I am currently working at the **Chongqing Branch of Industrial and Commercial Ba
 - **Laboratory:** Intelligent Visual Perception and Information Processing Laboratory
 - **Research Interests:** Computer Vision, Computer Graphics, Machine Learning, Knowledge Graphs
 
-**[Southwest Petroleum University](https://www.nepu.edu.cn/index.htm)** | Electronic Information Engineering (2017)
+**[Southwest Petroleum University](https://www.swpu.edu.cn/)** | Electronic Information Engineering (2017)
 - **Research Interests:** Computer Vision, Machine Learning
 
 ## 🏆 Honors & Awards
