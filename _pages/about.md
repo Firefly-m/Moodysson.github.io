@@ -11,10 +11,13 @@ I am currently working at the **Chongqing Branch of Industrial and Commercial Ba
 
 ## 🎓 Education
 
-**[Northeast Petroleum University](https://www.nepu.edu.cn/index.htm)** | Master of Engineering, Electronic Information Engineering (2022)
+**[Northeast Petroleum University](https://www.nepu.edu.cn/index.htm)** | Information and Communication Engineering (2022)
 - **Supervisor:** Prof. Hongbo Bi
 - **Laboratory:** Intelligent Visual Perception and Information Processing Laboratory
 - **Research Interests:** Computer Vision, Computer Graphics, Machine Learning, Knowledge Graphs
+
+**[Southwest Petroleum University](https://www.nepu.edu.cn/index.htm)** | Electronic Information Engineering (2017)
+- **Research Interests:** Computer Vision, Machine Learning
 
 ## 🏆 Honors & Awards
 
