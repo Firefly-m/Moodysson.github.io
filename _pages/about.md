@@ -29,9 +29,9 @@ I am currently working at the **Chongqing Branch of Industrial and Commercial Ba
 
 ## 💼 Experience
 
-- **Industrial and Commercial Bank of China (ICBC), Chongqing Branch** | Current Role
-- **Bank of China, Sichuan Branch** | Intern, Information Technology Department
-- **China Life Reinsurance Co., Ltd.** | Intern, Business Development Department
+- **Industrial and Commercial Bank of China (ICBC), Chongqing Branch**, Current Role
+- **Bank of China, Sichuan Branch**, Intern, Information Technology Department
+- **China Life Reinsurance Co., Ltd.**, Intern, Business Development Department
 
 **Welcome to connect and collaborate with me!**
 
