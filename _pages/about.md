@@ -6,15 +6,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a graduate student level 2022 from [electrical information engineering college](https://dqxxgcxy.nepu.edu.cn/), [northeast petroleum university](https://www.nepu.edu.cn/index.htm). I graduated from Electronic Information Engineering, [School of Electrical Information](https://www.swpu.edu.cn/dxy/index.htm), [Southwest Petroleum University](https://www.swpu.edu.cn/). My research interests include computer vision, computer graphics, machine learning, and knowledge graphs.
 
-It is my great honor to join the Intelligent Visual Perception and Information Processing Laboratory of [School of Electrical and Information Engineering](https://dqxxgcxy.nepu.edu.cn/) of Northeast Petroleum University to study. I was advised by [Prof. Hongbo Bi](https://dqxxgcxy.nepu.edu.cn/info/1065/1380.htm) from [School of Electrical Information Engineering](https://dqxxgcxy.nepu.edu.cn/), Northeast Petroleum University.
+I am currently working at the Chongqing Branch of Industrial and Commercial Bank of China (ICBC). I hold a Master’s degree in Electronic Information Engineering from [Northeast Petroleum University](https://www.nepu.edu.cn/index.htm) (2022). Under the guidance of Professor Hongbo Bi, I conducted research in the Intelligent Visual Perception and Information Processing Laboratory, with a focus on computer vision, computer graphics, machine learning, and knowledge graphs.
 
-During the period of study, I passed CET-6, published one SCI paper and authorized one invention patent. I has won first-class scholarships for many times, and has been rated as excellent master's student and outstanding graduate student leader.
+### Education & Research
 
-As the team leader, I have won many national, provincial and university-level awards such as China TRIZ College Students Innovative Method Competition, China Graduate Students Mathematical Contest in Modeling, China College Students Service Outsourcing Innovation and Entrepreneurship Competition, and South Beijing Artificial Intelligence and Robot Innovation and Entrepreneurship Competition. In addition, I worked as an intern in the Information Technology Department of Sichuan Branch of Bank of China and the Business Development Department of China Life Reinsurance Co., LTD.
+M.E. in Electronic Information Engineering, Northeast Petroleum University
+Advised by Prof. Hongbo Bi; member of the Intelligent Visual Perception and Information Processing Laboratory
+Research interests: computer vision, computer graphics, machine learning, knowledge graphs
 
-Welcome to cooperate and communicate with me.
+### Honors & Achievements
+
+Published one SCI paper and authorized one invention patent
+Awarded first-class scholarships multiple times
+Recognized as Outstanding Master’s Student and Outstanding Graduate Student Leader
+Won awards in national and provincial competitions including:
+China TRIZ College Students Innovative Method Competition
+China Graduate Students Mathematical Contest in Modeling
+China College Students Service Outsourcing Innovation and Entrepreneurship Competition
+South Beijing Artificial Intelligence and Robot Innovation and Entrepreneurship Competition
+
+### Internship & Work Experience
+
+Intern, Information Technology Department, Bank of China Sichuan Branch
+Intern, Business Development Department, China Life Reinsurance Co., Ltd.
+Current: Employee, Chongqing Branch of Industrial and Commercial Bank of China (ICBC)
+
+I warmly welcome opportunities for cooperation and communication.
 
 [Email](mailto:modisen2022@163.com) / [Github](https://github.com/Firefly-m) / [Wechat](../images/wechat.png) / [Douyin](https://v.douyin.com/WPQfXveN3V8/) / [CSDN](https://blog.csdn.net/qq_41972616)
 
